@@ -1,1 +1,1 @@
-# kml.
+# Used as a kml repository
